@@ -1,0 +1,31 @@
+h1, h2 {
+  font-weight: normal;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.holder {
+  width: 150px;
+  position: absolute;
+  left: 50%;
+  margin-left: -100px;
+  border: 1px solid lightgrey;
+  padding: 20px;
+  text-align: left;
+}
+.button {
+  background-color: #66AAFF;
+  padding: 20px;
+  border: 1px solid #CCEEFF;
+  border-bottom-color: #2266FF;
+  border-right-color: #2266FF;
+  cursor: pointer;
+}
+a {
+  color: #42b983;
+}
